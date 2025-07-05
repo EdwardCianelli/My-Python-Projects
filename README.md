@@ -21,5 +21,3 @@ This repo documents my journey through Python, from learning the basics to apply
 - File system automation and reporting scripts
 
 ---
-
-## 📂 Project Structure (Sample)
